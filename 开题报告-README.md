@@ -1,19 +1,15 @@
 # README
 
 ## 引用
-https://blog.csdn.net/wspba/article/details/57074389
+https://www.kaggle.com/c/cs3244-rossmann-store-sales
 
-https://arxiv.org/abs/1512.03385
+https://blog.csdn.net/capecape/article/details/78623897
 
-https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/5-16-A-tranfer-learning/
+https://github.com/NemoHoHaloAi/machine-learning-plus/blob/master/notes/%E9%9D%9E%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/5.PCA-%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90.md
 
-https://keras-cn.readthedocs.io/en/latest/
+https://github.com/NemoHoHaloAi/machine-learning-plus/blob/master/notes/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/6.%E9%9B%86%E6%88%90B-B.md
 
-https://zhuanlan.zhihu.com/p/25066187
-
-https://zhuanlan.zhihu.com/p/33176260
+https://blog.csdn.net/juzexia/article/details/77743218
 
 ## 数据集
-https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
-
-http://www.robots.ox.ac.uk/~vgg/data/pets/
+https://www.kaggle.com/c/cs3244-rossmann-store-sales/data
