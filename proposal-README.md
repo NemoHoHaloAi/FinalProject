@@ -1,7 +1,7 @@
 # README
 
 ## 引用
-https://www.kaggle.com/c/cs3244-rossmann-store-sales
+https://www.kaggle.com/c/rossmann-store-sales
 
 https://blog.csdn.net/capecape/article/details/78623897
 
