@@ -12,7 +12,6 @@
   * xgboost:XGBoost模型相关。
 
 ## 数据集
+
 Kaggle该项目对应数据集，来源自真正的现实商家：
 > https://www.kaggle.com/c/rossmann-store-sales/data
-
-## 模型实际训练、测试情况
