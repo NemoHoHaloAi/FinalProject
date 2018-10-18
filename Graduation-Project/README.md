@@ -15,3 +15,6 @@
 
 Kaggle该项目对应数据集，来源自真正的现实商家：
 > https://www.kaggle.com/c/rossmann-store-sales/data
+
+## v2
+针对导致反馈逐个问题进行修改，最终kaggle private score为0.11188，满足项目需要，由衷感谢各位kaggle大神的分享。
